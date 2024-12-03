@@ -1,0 +1,8 @@
+name	type	units	low_cutoff	high_cutoff	sampling_frequency
+is1	EEG	µV	0.016	1000	2500
+is2	EEG	µV	0.016	1000	2500
+is4	EEG	µV	0.016	1000	2500
+is5	EEG	µV	0.016	1000	2500
+is6	EEG	µV	0.016	1000	2500
+is7	EEG	µV	0.016	1000	2500
+is8	EEG	µV	0.016	1000	2500
